@@ -1,0 +1,19 @@
+.formc {
+    width: 37%;
+    display: inline-block;
+}
+.textc{
+    border: 2px solid skyblue;
+}
+.containerCC{
+    width: 40%;
+    height: 360px;
+    margin-left: 30%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 10%;
+    padding: 2px;
+    border: 2px solid black;
+    border-radius: 5%;
+}
